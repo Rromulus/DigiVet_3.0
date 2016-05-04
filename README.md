@@ -8,4 +8,4 @@ The tripplestore can be found:
     - https://w3id.org/w4ra/digivet/example/John_Elba (this is an imaginary person containing three cases of the system where symptomes and the diagnoses are stored)
 - Data is available at: https://github.com/biktorrr/digivetkb 
 
-
+For downloading DigiVet 3.0, see: https://github.com/Rromulus/DigiVet_audio
