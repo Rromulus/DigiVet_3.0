@@ -1,0 +1,28 @@
+######################################################################
+#  Prototype DigiVet                                                 #
+#  Course: Knowledge Engineering 2015-2016                           #
+#  Vrije Universiteit Amsterdam							                         #
+#  Gossa Lô and Romy Blankendaal                                     #
+######################################################################
+
+This prototype has been developed for the Raspberry Pi. However, this README file includes the installation procedure for Windows computers. 
+
+1. Unzip the .zip file 
+2. Install the following:
+-	Apache (XAMMP or WAMPserver (recommended))
+3. When using WAMPserver, PHPmyAdmin is already installed (if you use another Apache, make sure that PHPmyAdmin is installed). Open PHPmyAdmin and create a new database called: Digivet. 
+4. In the folder of the prototype, open de file digivet.sql. Copy all the text in this file. Go back to your database, click on the tab ‘SQL’ and paste the text in the text field. Click on start. The database with all the questions is now created (this can take a couple of seconds). 
+
+
+Starting the application: 
+1. Make sure that your Apache is on. 
+2. Run start.py in your localhost. 
+(When using WAMPSERVER, the URL looks at something like this: http://localhost/digivet/start.php.
+3. The application is started! Have fun using this prototype. 
+
+
+Questions or ideas? Please contact us: 
+{a.g.lo ,r.a.m.blankendaal} @student.vu.nl
+
+
+
