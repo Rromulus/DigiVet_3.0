@@ -4,7 +4,9 @@ Call-system of DigiVet (this is an extension of DigiVet 2.0: https://github.com/
 The tripplestore can be found:
 
   - online: http://semanticweb.cs.vu.nl/radiomarche/home 
+
         - Example URLS:
+      
             - https://w3id.org/w4ra/digivet/question_non_urgent_rabies_7 
             - https://w3id.org/w4ra/digivet/Dog 
             - https://w3id.org/w4ra/digivet/example/John_Elba (this is an imaginary person containing three cases of the system where symptomes and the diagnoses are stored)
